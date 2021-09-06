@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645114876076-qloj9cm53f7tme4ao9bg8ru86b715vku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645114876076-qloj9cm53f7tme4ao9bg8ru86b715vku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2PBWXOuv7JPQ62JSCF-K8akHiANsDyqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645114876076</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frightenedpony.kangaroocourt</string>
+	<key>PROJECT_ID</key>
+	<string>kangaroocourt-e6357</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kangaroocourt-e6357.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645114876076:ios:9db9402ed206ccedd68f09</string>
+</dict>
+</plist>
